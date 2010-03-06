@@ -13,9 +13,10 @@ If you've been itching to install a new version "here's an early preview":http:/
 h2. What to expect
 
 * BUGS! (report them)
-* Theming isn't finished yet (umbighouse is on it!)
+* Settings and photo theming (thanks umbighouse)
 * Photo browsing and slideshow (thanks renojim)
 * Audio pausing (thanks renojim)
+* In channel configuration for some options (thanks renojim)
 * Fixed bugs related to Home button (thanks renojim)
 * Better feedback while the channel is loading data from the server (thanks renojim)
 * MP3's with embedded album art will now display the art
