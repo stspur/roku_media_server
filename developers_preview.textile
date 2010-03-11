@@ -36,11 +36,41 @@ h2. Python Imaging Library
 
 In order to make personal image browsing a reality we must be able to resize images of many formats on demand. I've added the Python Imaging Library (PIL) as a requirement because it enables the server to load and manipulate most popular image formats. The channel will still work without PIL but it will pass the Roku full sized images (not thumbnails) and you can expect slow performance from your photo collection.
 
+h3. Windows Users
+
+Download and install "this package":http://effbot.org/downloads/PIL-1.1.7.win32-py2.6.exe . Note that if you're running 64 bit windows and 64 bit python you'll need a 64 bit PIL. Since there isn't a 64 bit version of PIL that's official and tested we recommend you uninstall 64 bit python and install the 32 bit version so that you can run 32 bit PIL.
+
+h3. Linux users (debian/ubuntu)
+
+pre. sudo aptitude install python-imaging
+
+h3. Mac users
+
+_Contributed by hammerpacket_
+
+IMPORTANT: PERFORM THE STEPS IN THIS ORDER.
+
+1. Install library for conversion of jpeg images:
+
+Download "Combo Installer: libpng & libjpeg" from the URL below and install from the disk image as you would any OS X app.
+
+"http://ethan.tira-thompson.org/Mac_OS_X_Ports.html":http://ethan.tira-thompson.org/Mac_OS_X_Ports.html
+
+2. Install Python Imaging Library (PIL):
+
+Open Terminal (in Applications>Utilities). Copy the following command and paste it into the terminal window and press [return]. 
+
+pre. sudo easy_install --find-links http://www.pythonware.com/products/pil/ Imaging
+
+You will be prompted for a password. Enter the same password you normally use for OS X software installs. This command will find and install the appropriate version of PIL. The process may take a couple of minutes and it may appear nothing is happening. Be sure to wait until you see a bunch of scrolling text and the command line prompt (your user name followed by a dollar sign) before closing the window or entering any other commands. 
+
+If you want to check that PIL and libjpeg are connected, look a few lines up from the end of the text printed to the screen at the end of the install process. You should see a line that says that jpeg support is available. 
+
+If you have problems or questions, post to the "Roku DVP forum":http://forums.rokulabs.com/viewtopic.php?p=159473":http://forums.rokulabs.com/viewtopic.php?p=159473 ; otherwise you can close the terminal window.
+
 h2. Known Bugs
 
-* My Photos uses My Videos icon and theming not correct on My Photos page
 * Horrible photo browsing performance if PIL is not installed (not really a bug, but something you should be aware of)
-* Slightly worse load times for big music collections (expect this to improve soon)
 
 *Let the bug reports begin*
 
