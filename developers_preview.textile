@@ -15,6 +15,7 @@ h2. What to expect
 * BUGS! (report them)
 * Settings and photo theming (thanks umbighouse)
 * Photo browsing and slideshow (thanks renojim)
+* Audio Shuffle (thanks renojim)
 * Audio pausing (thanks renojim)
 * In channel configuration for some options (thanks renojim)
 * Fixed bugs related to Home button (thanks renojim)
