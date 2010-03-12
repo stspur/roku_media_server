@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Developer's Preview
-branch: Shuffle1
+branch: Playlist1
 ---
 
 h2. Latest Release: {{page.branch}}
@@ -17,6 +17,7 @@ h2. What to expect
 * Photo browsing and slideshow (thanks renojim)
 * Audio Shuffle (thanks renojim)
 * Audio pausing (thanks renojim)
+* Playlist support (thanks renojim)
 * In channel configuration for some options (thanks renojim)
 * Fixed bugs related to Home button (thanks renojim)
 * Better feedback while the channel is loading data from the server (thanks renojim)
