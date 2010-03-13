@@ -67,7 +67,7 @@ You will be prompted for a password. Enter the same password you normally use fo
 
 If you want to check that PIL and libjpeg are connected, look a few lines up from the end of the text printed to the screen at the end of the install process. You should see a line that says that jpeg support is available. 
 
-If you have problems or questions, post to the "Roku DVP forum":http://forums.rokulabs.com/viewtopic.php?p=159473":http://forums.rokulabs.com/viewtopic.php?p=159473 ; otherwise you can close the terminal window.
+If you have problems or questions, post to the "Roku DVP forum":http://forums.roku.com/viewtopic.php?&t=25955 ; otherwise you can close the terminal window.
 
 h2. Known Bugs
 
