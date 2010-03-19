@@ -21,6 +21,10 @@ h2. For the Daring
 
 The features that eventually make it into the main distribution start their lives in the "developer's preview":developers_preview.html version. If you're willing to encounter and "report":http://forums.roku.com/viewtopic.php?&t=25955 a few bugs please give it a try! We need your help to iron out the wrinkles for everyone else.
 
+h2. Feature Requests
+
+Do you really need something that you don't see here or in the developers preview? "Tell us about it":http://spreadsheets.google.com/viewform?formkey=dHU2Mzd6UlVYLUtEZjM4cm9JZEc3bkE6MA or "see what others have suggested.":http://spreadsheets.google.com/ccc?key=0AptzIozyjLJQdHU2Mzd6UlVYLUtEZjM4cm9JZEc3bkE&hl=en
+
 h2. License
 
 p. GNU General Public License
