@@ -141,5 +141,3 @@ Some third party code is also included in the web, simplejson, and eyeD3 folders
 The folder icon is distributed under the creative commons. All other channel theming artwork is Copyright 2010 _umbighouse_. Channel artwork is free for non-commercial use. Contact the original author if you would like to use the art under different terms.
 This is a work in progress. I welcome feedback from your experiences. Let's make this readme file much better.
 
--B
-

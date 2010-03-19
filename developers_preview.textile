@@ -73,7 +73,5 @@ h2. Known Bugs
 
 * Horrible photo browsing performance if PIL is not installed (not really a bug, but something you should be aware of)
 
-*Let the bug reports begin*
-
-Note: This isn't release quality yet. It's for the brave and industrious... those willing to troubleshoot through quite a few bugs and issues.
+We're about ready to bless this one as the next release. Please report any and all bugs and surprises that you encounter while using this software.
 

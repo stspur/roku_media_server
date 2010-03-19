@@ -17,9 +17,9 @@ Check out the "installation guide":README.html for all the details but you'll ba
 # Put your Roku into developer mode
 # Run springboard to install the channel on your Roku and start the server
 
-h2. For the Daring
+h2. Developers Preview
 
-The features that eventually make it into the main distribution start their lives in the "developer's preview":developers_preview.html version. If you're willing to encounter and "report":http://forums.roku.com/viewtopic.php?&t=25955 a few bugs please give it a try! We need your help to iron out the wrinkles for everyone else.
+The features that eventually make it into the main distribution start their lives in the "developer's preview":developers_preview.html version. The current developers preview is nearing release quality and has many new and exciting features. Please download it and "report":http://forums.roku.com/viewtopic.php?&t=25955 any bugs that you encounter! We need your help to iron out the wrinkles for everyone else.
 
 h2. Feature Requests
 
