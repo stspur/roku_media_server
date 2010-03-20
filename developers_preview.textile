@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Developer's Preview
-branch: AwesomeAvocado
+branch: BodaciousAvacado
 ---
 
 h2. Latest Release: {{page.branch}}
@@ -13,7 +13,9 @@ If you've been itching to install a new version "here's an early preview":http:/
 h2. What to expect
 
 * Only a few bugs (please report them)
-* Consistent theming (thanks umbighouse)
+* Consistent default theming (thanks umbighouse)
+* Selectable theme support
+* High contrast theme (thanks Tyler)
 * Photo browsing and slideshow (thanks renojim)
 * Audio Shuffle (thanks renojim)
 * Audio Pausing (thanks renojim)
