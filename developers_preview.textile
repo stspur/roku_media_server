@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Developer's Preview
-branch: BodaciousAvacado
+branch: CacklingAvocado
 ---
 
 h2. Latest Release: {{page.branch}}
@@ -13,6 +13,7 @@ If you've been itching to install a new version "here's an early preview":http:/
 h2. What to expect
 
 * Only a few bugs (please report them)
+* Support for Live MP3 Streams
 * Consistent default theming (thanks umbighouse)
 * Selectable theme support
 * High contrast theme (thanks Tyler)
@@ -34,6 +35,7 @@ h2. Installation
 * Copy your config.ini file from old_installation/server/config.ini to new_installation/server/config.ini to maintain your current settings
 * Start springboard, configure your image folder, click install client
 * Start the server
+* Visit "http://localhost:8001":http://localhost:8001 to configure your live mp3 streams
 
 h2. Python Imaging Library
 
