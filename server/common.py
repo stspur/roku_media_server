@@ -219,3 +219,9 @@ def key_to_path(config, key, base=None):
   else:
     return os.path.join(base_dir, base)
 
+THB_SD_DIM = (223,200)
+THB_HD_DIM = (300,300)	
+FULL_SD_DIM = (720,480)
+FULL_HD_DIM = (1280,720)
+THB_DIM = THB_HD_DIM
+FULL_DIM = FULL_HD_DIM
